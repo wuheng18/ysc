@@ -23,7 +23,22 @@
         },
         { "url": "https://tvbox.cainisi.cf", 
         "name": "🐱夜猫子专线7"
-         }
+        },
+        { "url": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/dzpy.txt", 
+        "name": "🐱dzpy"
+        },
+        { "url": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/pa.txt", 
+        "name": "🐱pa"
+        },
+        { "url": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/py10.17.txt", 
+        "name": "🐱py10.17"
+        },
+        { "url": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/ym2.json", 
+        "name": "🐱ym2"
+        },
+        { "url": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/ymz9.json", 
+        "name": "🐱ymz9"
+        }
       
     ]
     
