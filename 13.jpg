@@ -1,0 +1,62 @@
+{
+    "urls": [
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/MultiLine/JiuYing/AAA.json",
+            "name": "👁️‍🗨线路一[日常追剧选我]"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/MultiLine/ShadowPavilion/YG01.json",
+            "name": "👁️‍🗨线路1"
+        },    
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/MultiLine/ShadowPavilion/YG02.json",
+            "name": "👁️‍🗨️线路2"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/MultiLine/ShadowPavilion/YG03.json",
+            "name": "👁️‍🗨️线路3"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/MultiLine/ShadowPavilion/YG04.json",
+            "name": "👁️‍🗨️线路4"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/MultiLine/ShadowPavilion/YG05.json",
+            "name": "👁️‍🗨️线路5"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/MultiLine/ShadowPavilion/YG06.json",
+            "name": "👁️‍🗨️线路6"
+        },        
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/MultiLine/ShadowPavilion/YG07.json",
+            "name": "👁️‍🗨️线路7"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/MultiLine/ShadowPavilion/YG08.json",
+            "name": "👁️‍🗨️线路8"
+        },   
+    	  {
+            "url": "http://152.136.125.181:81/MM/dianbos/MultiLine/JiuYing/BBB.json",
+            "name": "🚀特殊节目（小孩子清场）"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/MultiLine/ShadowPavilion/YGH01.json",
+            "name": "🚀老司机成长记①"
+        },                      
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/MultiLine/ShadowPavilion/YGH02.json",
+            "name": "🚀老司机成长记②"
+        },
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/MultiLine/ShadowPavilion/YGH03.json",
+            "name": "🚀老司机成长记③"
+        }
+    ],
+    "vip": [
+        {
+            "url": "",
+            "name": "默认"
+        }
+    ]
+}
